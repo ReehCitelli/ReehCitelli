@@ -42,10 +42,6 @@
 
 ---
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ReehCitelli&bg_color=0c0c0e&color=e8789a&line=e8789a&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🔧 Projetos em Destaque
 
 * 🌸 [Portfólio Pessoal](https://reehcitelli.github.io/Projeto1/index.html) — Cartão de visita digital
