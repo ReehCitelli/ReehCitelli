@@ -47,6 +47,7 @@
 * 🌸 [Portfólio Pessoal](https://reehcitelli.github.io/Projeto1/index.html) — Cartão de visita digital
 * 🍜 [Yakisoba PDV](https://reehcitelli.github.io/yakisoba/index.html) — Sistema de ponto de venda
 * 🚗 [Dashboard KM](https://reehcitelli.github.io/Dashboard/index.html) — Dashboard de controle de entregas
+* 🗝️ [Quadro de Chaves](https://github.com/ReehCitelli/craviculario) — Sistema desktop de controle de chaves com Python, Tkinter e SQLite
 
 ---
 
