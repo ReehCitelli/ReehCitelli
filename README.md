@@ -16,7 +16,7 @@
 #### 🚀 Em transição para a área de tecnologia e dados.
 #### 🐍 Bootcamp TOTVS — Fundamentos de Engenharia de Dados e Machine Learning.
 #### 💻 Técnica em Informática pela Etec Pedro Ferreira Alves.
-#### 🏠 Campineira, mãe e apaixonada por transformar dados em decisões reais.
+#### 🏠 Campineira, apaixonada por transformar dados em decisões reais.
 
 ---
 
@@ -43,35 +43,65 @@
 
 ---
 
-## 🗺️ Roadmap de Aprendizado
+# 🗺️ Roadmap — Estudos & Carreira 
+
+## 📍 Onde estou agora (2026)
+
+- 🔄 Guanabara — Python Mundo 2 (em andamento)
+- 🔄 Bootcamp TOTVS — Fundamentos de ETL com Python (em andamento)
+- 🎓 Objetivo: Preparação para Vestibular Unicamp 2027
+
+---
+
+## 📚 Cursos & Bootcamps — 2026
 
 ```
-2025 — Fundamentos
-├── ✅ Python básico (estruturas de dados, lógica, POO)
-├── ✅ Git & GitHub
-├── ✅ Excel Avançado
-├── 🔄 Bootcamp TOTVS — Engenharia de Dados & ML (em andamento)
-└── 🔄 SQL intermediário
-
-2025/2026 — Análise de Dados
-├── ⬜ Pandas & NumPy para análise exploratória
-├── ⬜ Power BI — dashboards com dados reais
-├── ⬜ Projetos de portfólio com datasets reais (Kaggle)
-└── ⬜ Storytelling com dados
-
-2026 — Engenharia de Dados
-├── ⬜ Python intermediário/avançado
-├── ⬜ SQL avançado & modelagem de dados
-├── ⬜ Pipelines de dados
-└── ⬜ Machine Learning aplicado
+2026 — Consolidação de Fundamentos
+├── 🔄 Guanabara Mundo 2 (em progresso)
+├── ⬜ Guanabara Mundo 3
+├── ⬜ Guanabara Mundo 4 (POO em Python)
+├── 🔄 Bootcamp TOTVS — Fundamentos de ETL com Python
+├── ⬜ Bootcamp Suzano — Análise de Dados com Power BI
+└── 🎓 Preparação para Vestibular Comvest
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 🏫 Unicamp — 2027 em diante
 
-![Renata's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReehCitelli&show_icons=true&count_private=true&hide_border=true&title_color=e8789a&icon_color=e8789a&text_color=f5f0ee&bg_color=0c0c0e)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReehCitelli&layout=compact&hide_border=true&title_color=e8789a&text_color=f5f0ee&bg_color=0c0c0e)](https://github.com/ReehCitelli)
+**Dois cursos em consideração:**
+
+### Opção 1: Ciência da Computação
+- Duração: 4 anos
+- Foco: Teoria computacional, desenvolvimento, sistemas
+- Base forte em programação e algoritmos
+
+### Opção 2: IA e Ciência de Dados (NOVO em 2027)
+- Duração: 8-12 semestres
+- Foco: Inteligência Artificial, Machine Learning, Ciência de Dados
+- Ênfase em cidades inteligentes, governo digital, saúde
+- 40 vagas (integral)
+
+> *Decisão a ser tomada conforme aprofundo os estudos.*
+
+---
+
+## 📈 Progresso
+
+### 2026
+- [x] Decidir foco: Vestibular Unicamp ✅
+- [x] Montar rotina de estudos sustentável ✅
+- [ ] Terminar Guanabara Mundo 2, 3 e 4
+- [ ] Terminar Bootcamp TOTVS
+- [ ] Fazer Bootcamp Suzano Power BI
+- [ ] Estudar para Vestibular (segunda metade de 2026)
+
+### 2027
+- [ ] Inscrição Comvest (final de 2026)
+- [ ] Vestibular (janeiro/fevereiro)
+- [ ] Passar ✅
+- [ ] Escolher entre Ciência da Computação ou IA + Dados
+- [ ] Começar Unicamp
 
 ---
 
@@ -82,6 +112,15 @@
 * 🍜 [Yakisoba PDV](https://reehcitelli.github.io/yakisoba/index.html) — Sistema de ponto de venda
 * 🚗 [Dashboard KM](https://reehcitelli.github.io/Dashboard/index.html) — Dashboard de controle de entregas
 * 🗝️ [Quadro de Chaves](https://github.com/ReehCitelli/craviculario) — Sistema desktop com Python, Tkinter e SQLite
+
+---
+
+## 📚 Recursos
+
+- **Guanabara:** Cursos práticos de Python
+- **TOTVS Bootcamp:** Engenharia de Dados e ML
+- **Suzano Bootcamp (DIO):** Análise de Dados com Power BI
+- **Comvest:** www.comvest.unicamp.br
 
 ---
 
